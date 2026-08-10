@@ -180,3 +180,4 @@ available:
 .. _Other community channels: https://robotframework.org/#community
 .. _VERSIONS.rst: https://github.com/robotframework/SeleniumLibrary/blob/master/VERSIONS.rst
 
+This line was added while practicing an enterprise-style Git workflow.
